@@ -1,2 +1,6 @@
-restful get rest_pass_reset_url.url:
-  title: 'Request Password Setting URL'
+restful get pass_reset_url:
+  title: 'Request Password Setting URL via GET method'
+  restrict access: true
+restful post pass_reset_url:
+  title: 'Request Password Setting URL via POST method'
+  restrict access: true
