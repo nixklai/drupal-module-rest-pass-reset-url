@@ -1,0 +1,5 @@
+name: RESTful Reset URL Request
+type: module
+core_version_requirement: ^9
+description: Expose a RESTful endpoint for requesting One-time Password Setting/Resetting URL for sepcific user.
+package: Web services

@@ -1,0 +1,2 @@
+restful get rest_pass_reset_url.url:
+  title: 'Request Password Setting URL'
