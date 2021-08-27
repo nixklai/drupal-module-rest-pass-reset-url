@@ -1,0 +1,9 @@
+id: rest_pass_reset_url
+plugin_id: pass_reset_url
+granularity: method
+configuration:
+  GET:
+    supported_formats:
+      - json
+    supported_auth:
+      - basic_auth
